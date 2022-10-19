@@ -1,0 +1,35 @@
+{
+  "name": "Darcula Button Outline",
+  "dark": true,
+  "author": "Gerry",
+  "colors": {
+    "bg": "#3C3F41",
+    "accent": "#3573EE",
+    "button": "bg"
+  },
+  "ui": {
+    "Button": {
+      "foreground": "accent",
+      "startBackground": "button",
+      "endBackground": "button",
+      "startBorderColor": "accent",
+      "endBorderColor": "accent",
+      "installForeground": "accent",
+      "installBorderColor": "accent",
+      "installFillForeground": "accent",
+      "installFillBackground": "button",
+      "updateForeground": "accent",
+      "updateBackground": "button",
+      "updateBorderColor": "accent",
+      "default": {
+        "foreground": "accent",
+        "startBackground": "button",
+        "endBackground": "button",
+        "startBorderColor": "accent",
+        "endBorderColor": "accent",
+        "focusedBorderColor": "accent",
+        "focusColor": "accent"
+      }
+    }
+  }
+}
